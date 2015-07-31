@@ -1,6 +1,6 @@
 <html> 
 <head> 
-<title>Joes World</title> 
+<title>Joes World V2</title> 
 
 <?PHP
 
