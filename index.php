@@ -29,7 +29,7 @@ function getUserIP()
 
 $user_ip = getUserIP();
 
-echo "Your IP is:" $user_ip; // Output IP address [Ex: 177.87.193.134]
+echo "Your IP is:"; echo $user_ip; // Output IP address [Ex: 177.87.193.134]
 
 
 ?>
